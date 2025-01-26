@@ -80,11 +80,5 @@ cd <repository-folder>
 * Weaknesses: "Accuracy Needs Significant Improvement."
 
 ### project-root/
-|├── data/                  # Folder for input data files
-|│   |── current_quiz_data.csv
-|│   |── historical_quiz_data.csv
-|├── main.py               # Main script to run the analysis
-|├── analysis.py           # Functions for data analysis and persona creation
-|├── recommendations.py    # Functions for generating recommendations
-|├── visualizations.py     # Functions for creating plots and charts
-|├── README.md            # Project documentation (this file)
+![image](https://github.com/user-attachments/assets/d9cceae6-fc4a-42e7-beb2-667d6fc2df13)
+
