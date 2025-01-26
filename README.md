@@ -30,9 +30,7 @@ This solution complements the functionalities of the NEET Testline app, availabl
 * pip install pandas matplotlib seaborn
 #### Steps
 #### Clone the Repository:
-git clone <repository-url>
-cd <repository-folder>
-
+![image](https://github.com/user-attachments/assets/f5830f37-261b-4d0d-9e24-c5adfb7cca81)
 #### Prepare the Data:
 * Obtain the datasets:
 * Current Quiz Data: Export the latest quiz data as a CSV.
@@ -81,4 +79,7 @@ cd <repository-folder>
 
 ### project-root/
 ![image](https://github.com/user-attachments/assets/d9cceae6-fc4a-42e7-beb2-667d6fc2df13)
+
+![image](https://github.com/user-attachments/assets/16ebc3ee-9eb4-4b20-9949-2cc37fc563c0)
+
 
