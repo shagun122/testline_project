@@ -30,8 +30,8 @@ This solution complements the functionalities of the NEET Testline app, availabl
 * pip install pandas matplotlib seaborn
 #### Steps
 #### Clone the Repository:
-* git clone <repository-url>
-* cd <repository-folder>
+git clone <repository-url>
+cd <repository-folder>
 
 #### Prepare the Data:
 * Obtain the datasets:
