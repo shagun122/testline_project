@@ -6,9 +6,9 @@ The Personalized Student Recommendations system is a Python-based solution desig
 This solution complements the functionalities of the NEET Testline app, available on Google Play, by offering data-driven recommendations based on student performance.
 
 ### Features-
-####Performance Analysis:
-*Analyzes quiz performance by topics, difficulty levels, and response accuracy.
-*Evaluates patterns over multiple quizzes to identify improvement trends.
+#### Performance Analysis:
+* Analyzes quiz performance by topics, difficulty levels, and response accuracy. 
+* Evaluates patterns over multiple quizzes to identify improvement trends.
 
 Insight Generation:
 
