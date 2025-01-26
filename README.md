@@ -78,3 +78,13 @@ cd <repository-folder>
 ##### Creative Labels:
 * Strengths: "High Accuracy in Solving Complex Topics."
 * Weaknesses: "Accuracy Needs Significant Improvement."
+
+### project-root/
+|├── data/                  # Folder for input data files
+|│   |── current_quiz_data.csv
+|│   |── historical_quiz_data.csv
+|├── main.py               # Main script to run the analysis
+|├── analysis.py           # Functions for data analysis and persona creation
+|├── recommendations.py    # Functions for generating recommendations
+|├── visualizations.py     # Functions for creating plots and charts
+|├── README.md            # Project documentation (this file)
